@@ -1,0 +1,10 @@
+
+---
+
+## 📦 6. `requirements.txt` (DEPENDÊNCIAS)
+
+```txt
+pyautogui
+pandas
+openpyxl
+colorama
